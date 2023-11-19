@@ -1,5 +1,5 @@
 const CONTRACT={
-    "address":"0x711A44B5263e3F53f4480F06DBdd0Df8434da149",//put address after deployment
+    "address":"0x042b3Ff0905E081d565cD2b46862DA27bC93AC6f",//put address after deployment
     "ABI":[
 		{
 			"inputs": [],
